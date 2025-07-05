@@ -9,3 +9,13 @@ p {
     margin-right: 80px;
     margin-left: 80px;
 }
+
+.maybe-last {
+    background-color: tomato;
+    color: whitesmoke;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding: 4%;
+    border-radius: 5px;
+
+}
