@@ -1,0 +1,11 @@
+h1 {
+    color: tomato;
+    text-align: center;
+}
+
+p {
+    background-color: skyblue;
+    color: whitesmoke;
+    margin-right: 80px;
+    margin-left: 80px;
+}
